@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Distribution / packaging
+.Python
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+
+data/
+checkpoints/
+features/
+NOTES.md
